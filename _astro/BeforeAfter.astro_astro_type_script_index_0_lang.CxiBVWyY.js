@@ -1,1 +1,0 @@
-document.querySelectorAll("[data-open]").forEach(e=>e.addEventListener("click",()=>document.getElementById(e.getAttribute("data-open")||"")?.showModal?.()));
