@@ -1,0 +1,410 @@
+[
+ {
+  "origem": "b1b7e81c5fdd6307bc5dcbbc2898e4944f13caf2321cd9486f508421606f58ad.png",
+  "rotacao": null,
+  "saidas": [
+   {
+    "file": "micropigmentacao/nanobrows-resultado-rosto-guarulhos-01-1200.webp",
+    "w": 1200,
+    "h": 900,
+    "kb": 69
+   },
+   {
+    "file": "micropigmentacao/nanobrows-resultado-rosto-guarulhos-01-640.webp",
+    "w": 640,
+    "h": 480,
+    "kb": 28
+   },
+   {
+    "file": "micropigmentacao/nanobrows-resultado-rosto-guarulhos-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 30
+   }
+  ]
+ },
+ {
+  "origem": "e0d348b16734a5ec75377431c8dff5116729aff22f7c2b98f51f95c8eb625a60.png",
+  "rotacao": null,
+  "saidas": [
+   {
+    "file": "micropigmentacao/nanobrows-resultado-rosto-guarulhos-02-1200.webp",
+    "w": 1200,
+    "h": 900,
+    "kb": 48
+   },
+   {
+    "file": "micropigmentacao/nanobrows-resultado-rosto-guarulhos-02-640.webp",
+    "w": 640,
+    "h": 480,
+    "kb": 21
+   },
+   {
+    "file": "micropigmentacao/nanobrows-resultado-rosto-guarulhos-02-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 23
+   }
+  ]
+ },
+ {
+  "origem": "ed1775be5236fc398208f07eb036ee8969ba2a2eca1a4cf694c743be34864441.png",
+  "rotacao": null,
+  "saidas": [
+   {
+    "file": "micropigmentacao/nanobrows-retoque-antes-guarulhos-01-900.webp",
+    "w": 900,
+    "h": 600,
+    "kb": 26
+   },
+   {
+    "file": "micropigmentacao/nanobrows-retoque-antes-guarulhos-01-600.webp",
+    "w": 600,
+    "h": 400,
+    "kb": 16
+   },
+   {
+    "file": "micropigmentacao/nanobrows-retoque-antes-guarulhos-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 18
+   }
+  ]
+ },
+ {
+  "origem": "ed1775be5236fc398208f07eb036ee8969ba2a2eca1a4cf694c743be34864441.png",
+  "rotacao": null,
+  "saidas": [
+   {
+    "file": "micropigmentacao/nanobrows-retoque-depois-guarulhos-01-900.webp",
+    "w": 900,
+    "h": 600,
+    "kb": 37
+   },
+   {
+    "file": "micropigmentacao/nanobrows-retoque-depois-guarulhos-01-600.webp",
+    "w": 600,
+    "h": 400,
+    "kb": 21
+   },
+   {
+    "file": "micropigmentacao/nanobrows-retoque-depois-guarulhos-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 23
+   }
+  ]
+ },
+ {
+  "origem": "7c33371099f561694ce969168d94ed1a47bb86b9f612ad1ff11494775a4ac5ac.png",
+  "rotacao": "ccw",
+  "saidas": [
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-detalhe-guarulhos-01-1200.webp",
+    "w": 1200,
+    "h": 900,
+    "kb": 45
+   },
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-detalhe-guarulhos-01-640.webp",
+    "w": 640,
+    "h": 480,
+    "kb": 20
+   },
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-detalhe-guarulhos-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 21
+   }
+  ]
+ },
+ {
+  "origem": "852221c180eaea10acb799a0687e0e1d2a2b0697dd7751ae8897fc3d1d2bb044.png",
+  "rotacao": "cw",
+  "saidas": [
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-pele-madura-guarulhos-01-1200.webp",
+    "w": 1200,
+    "h": 900,
+    "kb": 77
+   },
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-pele-madura-guarulhos-01-640.webp",
+    "w": 640,
+    "h": 480,
+    "kb": 29
+   },
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-pele-madura-guarulhos-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 28
+   }
+  ]
+ },
+ {
+  "origem": "983aed6d94507c467e448eed9c1c99634ded7a00cacfebf3488bf74023cd39da.png",
+  "rotacao": "cw",
+  "saidas": [
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-pele-madura-guarulhos-02-1200.webp",
+    "w": 1200,
+    "h": 900,
+    "kb": 39
+   },
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-pele-madura-guarulhos-02-640.webp",
+    "w": 640,
+    "h": 480,
+    "kb": 17
+   },
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-pele-madura-guarulhos-02-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 15
+   }
+  ]
+ },
+ {
+  "origem": "1bfa5faf6d572758243c526e1fc9ad5c282b268edc9440c70850a000d04cc405.png",
+  "rotacao": "cw",
+  "saidas": [
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-pele-madura-guarulhos-03-960.webp",
+    "w": 960,
+    "h": 1200,
+    "kb": 43
+   },
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-pele-madura-guarulhos-03-480.webp",
+    "w": 480,
+    "h": 600,
+    "kb": 17
+   },
+   {
+    "file": "micropigmentacao/sobrancelha-fio-a-fio-pele-madura-guarulhos-03-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 20
+   }
+  ]
+ },
+ {
+  "origem": "f2119333a0feff7e1a5e151ba181cff7ea3ee1f61a1735a4dec5bbadc90ffb64.png",
+  "rotacao": "ccw",
+  "saidas": [
+   {
+    "file": "sobrancelhas-cilios/sobrancelha-e-cilios-vila-galvao-01-1200.webp",
+    "w": 1200,
+    "h": 900,
+    "kb": 55
+   },
+   {
+    "file": "sobrancelhas-cilios/sobrancelha-e-cilios-vila-galvao-01-640.webp",
+    "w": 640,
+    "h": 480,
+    "kb": 21
+   },
+   {
+    "file": "sobrancelhas-cilios/sobrancelha-e-cilios-vila-galvao-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 23
+   }
+  ]
+ },
+ {
+  "origem": "a1ba25d3aaf328d4b7777157d1dd697d86a4c2f1410d82c7785cba0c7627fa6d.png",
+  "rotacao": "cw",
+  "saidas": [
+   {
+    "file": "sobrancelhas-cilios/sobrancelha-e-cilios-vila-galvao-02-1200.webp",
+    "w": 1200,
+    "h": 900,
+    "kb": 59
+   },
+   {
+    "file": "sobrancelhas-cilios/sobrancelha-e-cilios-vila-galvao-02-640.webp",
+    "w": 640,
+    "h": 480,
+    "kb": 23
+   },
+   {
+    "file": "sobrancelhas-cilios/sobrancelha-e-cilios-vila-galvao-02-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 26
+   }
+  ]
+ },
+ {
+  "origem": "048eaf8e1e208e19ea4042903906a43b1cd4d985a2f28656518d9d259d77ff9a.png",
+  "rotacao": "cw",
+  "saidas": [
+   {
+    "file": "sobrancelhas-cilios/sobrancelha-e-cilios-vila-galvao-03-960.webp",
+    "w": 960,
+    "h": 1200,
+    "kb": 67
+   },
+   {
+    "file": "sobrancelhas-cilios/sobrancelha-e-cilios-vila-galvao-03-480.webp",
+    "w": 480,
+    "h": 600,
+    "kb": 24
+   },
+   {
+    "file": "sobrancelhas-cilios/sobrancelha-e-cilios-vila-galvao-03-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 26
+   }
+  ]
+ },
+ {
+  "origem": "7f66c35094d35abcc4a03a1e550baf1c011520b977aeea13b4bf61eacd7258e9.png",
+  "rotacao": null,
+  "saidas": [
+   {
+    "file": "unhas/pedicure-esmaltacao-rosa-guarulhos-01-960.webp",
+    "w": 960,
+    "h": 1200,
+    "kb": 34
+   },
+   {
+    "file": "unhas/pedicure-esmaltacao-rosa-guarulhos-01-480.webp",
+    "w": 480,
+    "h": 600,
+    "kb": 15
+   },
+   {
+    "file": "unhas/pedicure-esmaltacao-rosa-guarulhos-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 18
+   }
+  ]
+ },
+ {
+  "origem": "a6fd34b61449b029217a5682e41d46292ffe70986a792a671ef6fe8b6c593f6e.png",
+  "rotacao": null,
+  "saidas": [
+   {
+    "file": "piercing/piercing-sobrancelha-e-nariz-guarulhos-01-1080.webp",
+    "w": 1080,
+    "h": 1350,
+    "kb": 136
+   },
+   {
+    "file": "piercing/piercing-sobrancelha-e-nariz-guarulhos-01-540.webp",
+    "w": 540,
+    "h": 675,
+    "kb": 47
+   },
+   {
+    "file": "piercing/piercing-sobrancelha-e-nariz-guarulhos-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 45
+   }
+  ]
+ },
+ {
+  "origem": "a1be7e384d428d90149b98ce9498f85ee82a2bd3f7beb634210e0924b9ac0a85.png",
+  "rotacao": null,
+  "saidas": [
+   {
+    "file": "piercing/piercing-daith-coracao-guarulhos-01-960.webp",
+    "w": 960,
+    "h": 1200,
+    "kb": 70
+   },
+   {
+    "file": "piercing/piercing-daith-coracao-guarulhos-01-480.webp",
+    "w": 480,
+    "h": 600,
+    "kb": 31
+   },
+   {
+    "file": "piercing/piercing-daith-coracao-guarulhos-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 28
+   }
+  ]
+ },
+ {
+  "origem": "6c5ffe17b42832db2fb59015c4a2ecf2c27b628c0acba43073f36543df901729.png",
+  "rotacao": null,
+  "saidas": [
+   {
+    "file": "piercing/piercing-daith-pedrinhas-guarulhos-01-1080.webp",
+    "w": 1080,
+    "h": 1080,
+    "kb": 50
+   },
+   {
+    "file": "piercing/piercing-daith-pedrinhas-guarulhos-01-540.webp",
+    "w": 540,
+    "h": 540,
+    "kb": 20
+   },
+   {
+    "file": "piercing/piercing-daith-pedrinhas-guarulhos-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 21
+   }
+  ]
+ },
+ {
+  "origem": "0208116e83b55fc3922a08ee80781fd43bd0f86e1a093e6117d60e8d5dc3ef2a.png",
+  "rotacao": null,
+  "saidas": [
+   {
+    "file": "piercing/piercing-lobulo-guarulhos-01-900.webp",
+    "w": 900,
+    "h": 1125,
+    "kb": 66
+   },
+   {
+    "file": "piercing/piercing-lobulo-guarulhos-01-450.webp",
+    "w": 450,
+    "h": 562,
+    "kb": 28
+   },
+   {
+    "file": "piercing/piercing-lobulo-guarulhos-01-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 30
+   }
+  ]
+ },
+ {
+  "origem": "50a57638a1d6a62874d9898ec4b5663d497f00e6dfe8e1304ae50fe7cc20063b.png",
+  "rotacao": null,
+  "saidas": [
+   {
+    "file": "piercing/piercing-lobulo-guarulhos-02-740.webp",
+    "w": 740,
+    "h": 925,
+    "kb": 46
+   },
+   {
+    "file": "piercing/piercing-lobulo-guarulhos-02-370.webp",
+    "w": 370,
+    "h": 462,
+    "kb": 19
+   },
+   {
+    "file": "piercing/piercing-lobulo-guarulhos-02-sq-600.webp",
+    "w": 600,
+    "h": 600,
+    "kb": 25
+   }
+  ]
+ }
+]
