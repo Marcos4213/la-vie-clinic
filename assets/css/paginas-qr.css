@@ -1,0 +1,69 @@
+/* La Vie Clinic · páginas /como-chegar/ e /cliente/ (complemento do CSS do site)
+   Usa os tokens do CSS principal (_astro/index.*.css): --color-*, --font-*, --radius-*, --shadow-soft.
+   Mobile-first. Não altera nenhuma página existente (todas as classes começam com lv-). */
+[hidden]{display:none!important}
+.lv-main{background:var(--color-porcelana);color:var(--color-ink)}
+.lv-wrap{width:100%;max-width:760px;margin-inline:auto;padding:2rem 1.25rem 3.5rem}
+@media (min-width:768px){.lv-wrap{padding:3.5rem 2rem 5rem}}
+.lv-main h1{font-size:clamp(2rem,7vw,3.25rem);line-height:1.08}
+#conteudo.lv-main h2,.lv-main h2{font-size:clamp(1.375rem,4.6vw,1.875rem);line-height:1.2;animation:none;opacity:1;clip-path:none;transform:none}
+.lv-main h3{font-family:var(--font-display);color:var(--color-cacau);font-size:1.1875rem;font-weight:600;line-height:1.25}
+.lv-lead{margin-top:.75rem;font-size:clamp(1.0625rem,2vw,1.1875rem);line-height:1.55;color:var(--color-muted)}
+.lv-small{font-size:.875rem;line-height:1.5;color:var(--color-muted)}
+.lv-mt{margin-top:1.5rem}.lv-mt-lg{margin-top:2.5rem}
+.lv-rule{display:block;width:48px;height:1px;background:var(--color-champagne);margin-bottom:.75rem}
+
+/* Endereço */
+.lv-endereco{margin-top:1.5rem;border:1px solid var(--color-nude);border-radius:var(--radius-card);background:#fff;box-shadow:var(--shadow-soft);padding:1.25rem 1.25rem 1.375rem}
+.lv-endereco address{font-style:normal;font-size:1.125rem;line-height:1.55;color:var(--color-ink)}
+.lv-endereco strong{color:var(--color-cacau)}
+.lv-sala{display:inline-flex;align-items:center;gap:.4rem;margin:.25rem 0 .5rem;padding:.4rem 1rem;border-radius:999px;background:var(--color-rose-700);color:#fff;font-weight:800;font-size:1.0625rem;letter-spacing:.1em;text-transform:uppercase}
+.lv-copy{margin-top:.875rem;display:inline-flex;align-items:center;gap:.5rem;min-height:44px;padding:0 1.1rem;border-radius:999px;border:1.5px solid var(--color-cacau);background:transparent;color:var(--color-cacau);font:inherit;font-weight:700;cursor:pointer}
+.lv-copy:hover{background:var(--color-nude)}
+.lv-status{min-height:1.5em;margin-top:.5rem;font-size:.9375rem;font-weight:600;color:var(--color-salvia-700)}
+
+/* Botões grandes */
+.lv-acoes{margin-top:1.5rem;display:grid;grid-template-columns:1fr;gap:.75rem}
+@media (min-width:640px){.lv-acoes{grid-template-columns:1fr 1fr}}
+.lv-btn{display:flex!important;width:100%;min-height:60px!important;padding-inline:1.25rem!important;font-size:1.0625rem;border-radius:999px;text-align:center;text-decoration:none;line-height:1.2}
+.lv-btn svg{flex:none}
+.lv-btn-wa{background:#fff}
+.lv-nota{margin-top:.75rem;font-size:.875rem;color:var(--color-muted)}
+
+/* Mapa */
+.lv-mapa{margin-top:1.5rem;position:relative;overflow:hidden;border-radius:var(--radius-img);border:1px solid var(--color-nude);background:var(--color-nude);aspect-ratio:4/3}
+@media (min-width:768px){.lv-mapa{aspect-ratio:16/9}}
+.lv-mapa iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+
+/* Pra não errar */
+.lv-box{margin-top:1.5rem;border-radius:var(--radius-card);background:var(--color-rose-100);padding:1.25rem 1.25rem 1.375rem}
+.lv-lista{margin:0;padding:0;list-style:none;display:grid;gap:.75rem}
+.lv-lista li{display:flex;gap:.625rem;align-items:flex-start;line-height:1.55}
+.lv-lista li svg{flex:none;margin-top:.15rem;color:var(--color-rose-700)}
+
+/* Fotos (ocultas até existirem) */
+.lv-fotos{margin-top:1rem;display:grid;gap:.75rem;grid-template-columns:1fr}
+@media (min-width:640px){.lv-fotos{grid-template-columns:1fr 1fr}}
+.lv-fotos figure{margin:0}
+.lv-fotos img{display:block;width:100%;height:auto;border-radius:var(--radius-img);background:var(--color-nude)}
+.lv-fotos figcaption{margin-top:.375rem;font-size:.875rem;color:var(--color-muted)}
+
+/* Cartões da página /cliente/ */
+.lv-hero{text-align:center}
+.lv-hero .lv-lead{margin-inline:auto;max-width:34ch}
+.lv-cards{margin-top:2rem;display:grid;gap:1rem}
+.lv-card{border:1px solid var(--color-nude);border-radius:var(--radius-card);background:#fff;box-shadow:var(--shadow-soft);padding:1.25rem}
+@media (min-width:768px){.lv-card{padding:1.5rem 1.75rem}}
+.lv-card-top{display:flex;gap:.875rem;align-items:flex-start}
+.lv-ico{flex:none;display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:999px;background:var(--color-rose-100);color:var(--color-rose-700)}
+.lv-card p{margin-top:.375rem;line-height:1.55}
+.lv-card .lv-acoes{margin-top:1rem}
+.lv-card-destaque{border-color:var(--color-rose-500)}
+.lv-servicos{margin-top:1rem;display:grid;gap:.625rem}
+.lv-servico{border:1px solid var(--color-nude);border-radius:18px;padding:.875rem 1rem;background:var(--color-porcelana)}
+.lv-servico h3{font-size:1.0625rem}
+.lv-servico p{margin-top:.25rem;font-size:.9375rem;color:var(--color-muted)}
+.lv-servico a{margin-top:.625rem;display:inline-flex;align-items:center;gap:.4rem;min-height:44px;font-weight:700;color:var(--color-rose-700);text-decoration:underline;text-underline-offset:3px}
+.lv-chip{display:inline-block;margin-top:.5rem;padding:.25rem .75rem;border-radius:999px;background:var(--color-salvia-100);color:var(--color-salvia-700);font-size:.8125rem;font-weight:700}
+.lv-link{color:var(--color-rose-700);font-weight:700;text-decoration:underline;text-underline-offset:3px}
+@media (prefers-reduced-motion:reduce){.lv-main *{transition:none!important;animation:none!important}}
